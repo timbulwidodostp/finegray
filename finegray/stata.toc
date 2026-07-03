@@ -2,4 +2,4 @@
 1
 2
 3
-p cjive Cluster jackknife instrumental variable estimator Use cjive With STATA 19
+p finegray Fine-Gray competing risks regression Use finegray With STATA 19
