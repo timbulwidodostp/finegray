@@ -1,6 +1,8 @@
 # finegray
 Fine-Gray competing risks regression Use finegray With STATA 19
 
+https://www.youtube.com/watch?v=6WxzKPMDZEk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
